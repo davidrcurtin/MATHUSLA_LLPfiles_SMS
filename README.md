@@ -14,7 +14,9 @@ We will follow 1904.10447 reference for both computing S production and S decay 
 In the < 5 GeV range, a guaranteed production mechanism is exotic B meson decays via the higgs mixing, with decay rate ~ sintheta^2. This is the LLP production mode that this set of files covers. (D-meson decays give a much smaller contribution and are not included here.)
 
 p p > B + X
+
 B -> S + X
+
 at 14 TeV HL-LHC
 
 Free model parameters:
